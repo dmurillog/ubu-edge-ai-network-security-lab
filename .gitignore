@@ -2,3 +2,7 @@
 wifi/pcaps/*.pcapng
 wifi/pcaps/*.log
 wifi/pcaps/test-*.pcapng
+
+# secretos
+.env
+wifi/apis/**/.env
