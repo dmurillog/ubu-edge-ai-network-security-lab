@@ -1,0 +1,4 @@
+# Capturas y artefactos locales
+wifi/pcaps/*.pcapng
+wifi/pcaps/*.log
+wifi/pcaps/test-*.pcapng
